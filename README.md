@@ -1,15 +1,12 @@
-<head>
-  <!-- reference your copy Font Awesome here (from our CDN or by hosting yourself) -->
-  <link href="/your-path-to-fontawesome/css/fontawesome.css" rel="stylesheet">
-  <link href="/your-path-to-fontawesome/css/brands.css" rel="stylesheet">
-  <link href="/your-path-to-fontawesome/css/solid.css" rel="stylesheet">
-</head>
+<html>
 <h1 align="center">Hi 👋, I'm Mateus Marçal but you can call me Moteus😄</h1>
 
 - 🌱 I’m currently learning `.js` , `.html` , `.css`, `.php` and more... 
 - 😄 Pronouns: *He / Him* 
 - ⚡ Fun fact: I love to draw and play games
+</html>
 
 
-<br />
-<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mooteus&show_icons=true&theme=radical)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Moteus&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
