@@ -7,6 +7,5 @@
 </html>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mooteus&show_icons=true&theme=radical)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Moteus&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+| <a href="https://github.com/Mooteus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mooteus&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Mooteus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Moteus" /></a> |
+| ------------- | ------------- |
