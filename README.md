@@ -7,5 +7,5 @@
 </html>
 
 
-| <a href="https://github.com/Mooteus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mooteus&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Mooteus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Moteus" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mooteus&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Moteus&theme=radical" /> |
 | ------------- | ------------- |
