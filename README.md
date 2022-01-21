@@ -14,7 +14,7 @@
 | ------------- | ------------- |
 
 <p align="center">
-  <a href="(https://github.com/Mooteus"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Mooteus&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF" /></a>
+  <a href="(https://github.com/mooteus"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mooteus&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF" /></a>
 </p>
 
 
