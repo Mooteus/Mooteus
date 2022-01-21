@@ -1,5 +1,5 @@
 <html>
-<h1 align="center">Hi, I'm Mateus Marçal but you can call me Moteus😄</h1>
+<h1 align="center">Hi, I'm Mateus Marçal but you can call me Moteus 😄</h1>
 
 - 🤔 I’m currently learning `.js` , `.html` , `.css` and `.php`
 - ⚡ Fun fact: I love to draw and play games
