@@ -1,12 +1,12 @@
 <html>
-<h1 align="center">Oi 👋, eu sou o Moteus (Mateus Marçal) 😄</h1>
+<h1 align="center">Hi 👋, I'm Moteus (Mateus Marçal) 😄</h1>
 
 ### Sobre mim 
   
-- 🤔 Atualmente estou estudando Desenvolvimento WEB na [Trybe](https://www.betrybe.com/) 💚 
-- 🥰 Amo essa área desde meus 14 anos
+- 🤔 I am currently studying WEB Development at [Trybe](https://www.betrybe.com/) 💚 
+- 🥰 I love this area since I was 14 years old
 - 🇧🇷 Belo Horizonte - Brazil
-- ⚡ No meu tempo livre estou desenhando e jogando com meus amigos 
+- ⚡ In my free time I'm drawing and playing games with my friends
 </html>
 
 
