@@ -1,5 +1,5 @@
 <html>
-<h1 align="center">Oi 👋, eu sou o Moteus(Mateus Marçal) 😄</h1>
+<h1 align="center">Oi 👋, eu sou o Moteus (Mateus Marçal) 😄</h1>
 
 - 🤔 I’m currently learning `.js` , `.html` , `.css` and `.php`
 - ⚡ Fun fact: I love to draw and play games
