@@ -1,6 +1,8 @@
 <html>
 <h1 align="center">Oi 👋, eu sou o Moteus (Mateus Marçal) 😄</h1>
 
+### Sobre mim 
+  
 - 🤔 Atualmente estou estudando Desenvolvimento WEB na [Trybe](https://www.betrybe.com/) 💚 
 - 🥰 Amo essa área desde meus 14 anos
 - 🇧🇷 Belo Horizonte - Brazil
