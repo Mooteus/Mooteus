@@ -3,6 +3,7 @@
 
 - 🤔 Atualmente estou estudando Desenvolvimento WEB na [Trybe](https://www.betrybe.com/) 💚 
 - 🥰 Amo essa área desde meus 14 anos
+- 🇧🇷 Brazil - Belo Horizonte - MG
 - ⚡ No meu tempo livre estou desenhando e jogando com meus amigos 
 </html>
 
