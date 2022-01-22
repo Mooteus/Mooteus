@@ -1,7 +1,7 @@
 <html>
 <h1 align="center">Hi 👋, I'm Moteus (Mateus Marçal) 😄</h1>
 
-### about me
+### About me:
   
 - 🤔 I am currently studying WEB Development at [Trybe](https://www.betrybe.com/) 💚 
 - 🥰 I love this area since I was 14 years old
