@@ -10,7 +10,7 @@
 </html>
 
 
-| <a href="(https://github.com/mooteus"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mooteus&count_private=true&theme=github_dark&show_icons=true" /></a> | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mooteus)](https://github.com/anuraghazra/github-readme-stats)|
+| <a href="(https://github.com/mooteus"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mooteus&count_private=true&theme=github_dark&show_icons=true" /></a> | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moteus)](https://github.com/anuraghazra/github-readme-stats)|
 | ------------- | ------------- |
 
 <p align="center">
