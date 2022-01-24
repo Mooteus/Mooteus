@@ -5,7 +5,7 @@
   
 - 🤔 I am currently studying WEB Development at [Trybe](https://www.betrybe.com/) 💚 
 - 🥰 I love this area since I was 14 years old
-- 🇧🇷 Belo Horizonte - Brazil
+- 🚩 Belo Horizonte - Brazil
 - ⚡ In my free time I'm drawing and playing games with my friends
 </html>
 
