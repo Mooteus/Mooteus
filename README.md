@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="(https://github.com/Mooteus"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Mooteus&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF" /></a> </br>
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Moteus&langs_count=8&hide_border=true&border_radius=15&theme=github-dark"/>
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Moteus&langs_count=8&hide_border=true&border_radius=15&layout=compact&theme=github_dark&show_icons=true"/>
 </p>
 
 
