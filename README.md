@@ -18,7 +18,7 @@
       <a href="(https://github.com/Mooteus"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mooteus&theme=github-       dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF" /></a> <br>
       <a href="(https://github.com/Mooteus"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Moteus&langs_count=8&hide_border=true&border_radius=15&theme=github_dark"/> </a>
 </p>
-<img src="https://count.getloli.com/get/@:mooteus" alt=":name" />
+<img height="100" src="https://count.dsrkafuu.net/mooteus:home" alt="Moe Counter CF" />
   
    
 
