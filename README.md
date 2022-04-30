@@ -1,5 +1,6 @@
 <html>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mooteus&label=Profile%20views&color=0e75b6&style=flat" alt="guthias" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=mooteus&label=Profile%20views&color=0e75b6&style=flat" alt="moteus" /> </p>
+ <a href="https://wakatime.com/@1bad294a-718f-4416-bdd7-84bef13d5b8e"><img src="https://wakatime.com/badge/user/1bad294a-718f-4416-bdd7-84bef13d5b8e.svg" alt="Total time coded since Oct 29 2021" /></a>
 <h1 align="center">Hi 👋, I'm Moteus (Mateus Marçal) 😄</h1>
 
 ### About me:
