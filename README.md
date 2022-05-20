@@ -15,10 +15,7 @@
 | <a href="(https://github.com/Mooteus"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mooteus&count_private=true&theme=github_dark&show_icons=true" /></a> | <a href="https://github.com/mooteus/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooteus&langs_count=8&layout=compact&theme=github_dark&count_private=true" /></a>| 
 | ------------- | ------------- |
 
-<p align="center">
-      <a href="(https://github.com/Mooteus"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mooteus&theme=github-       dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF" /></a> <br>
-      <a href="(https://github.com/Mooteus"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Moteus&langs_count=8&hide_border=true&border_radius=15&theme=github_dark"/> </a>
-</p>
+
 
 
 
