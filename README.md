@@ -11,6 +11,8 @@
 - ⚡ In my free time I'm drawing and playing games with my friends
 </html>
 
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)
+
 | <a href="(https://github.com/Mooteus"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mooteus&count_private=true&theme=github_dark&show_icons=true" /></a> | <a href="https://github.com/mooteus/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooteus&langs_count=8&layout=compact&theme=github_dark&count_private=true" /></a>| 
 | ------------- | ------------- |
 
