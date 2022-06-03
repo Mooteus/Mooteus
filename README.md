@@ -9,11 +9,21 @@
 - 🥰 I love this area since I was 14 years old
 - 🚩 Belo Horizonte - Brazil
 - ⚡ In my free time I'm drawing and playing games with my friends
+
+<div style="display: flex;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40px" width="40px">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40px" width="40px">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css3" height="40px" width="40px">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40px" width="40px">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="40px" width="40px">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" height="40px" width="40px">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="40px" width="40px">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" height="40px" width="40px">
+</div>
 </html>
 
 | <a href="(https://github.com/Mooteus"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mooteus&count_private=true&theme=github_dark&show_icons=true" /></a> | <a href="https://github.com/mooteus/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooteus&langs_count=8&layout=compact&theme=github_dark&count_private=true" /></a>| 
 | ------------- | ------------- |
-
 
 
 
