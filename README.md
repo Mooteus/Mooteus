@@ -9,7 +9,7 @@
 - 🥰 I love this area since I was 14 years old
 - 🚩 Belo Horizonte - Brazil
 - ⚡ In my free time I'm drawing and playing games with my friends
-##
+
 <div style="display: inline_block">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30px" width="40px">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="30px" width="40px">
