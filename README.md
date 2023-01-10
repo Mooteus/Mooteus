@@ -5,7 +5,7 @@
 
 ### About me:
   
-- 🤔 I am currently studying WEB Development at [Trybe](https://www.betrybe.com/) 💚 
+- 🤔 I am currently studying computer science 
 - 🥰 I love this area since I was 14 years old
 - 🚩 Belo Horizonte - Brazil
 - ⚡ In my free time I'm drawing and playing games with my friends
